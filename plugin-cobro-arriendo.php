@@ -4,7 +4,7 @@
 Plugin Name: Cobro de Arriendo
 Description: Plugin para gestionar arriendos con WooCommerce por categorías: vivienda, conjunto residencial y comercial.
 Version: 1.0
-Author: Tu Nombre
+Author: SG Design
 */
 
 if (!defined('ABSPATH')) exit;
